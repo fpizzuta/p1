@@ -11,7 +11,7 @@
 	<div id="wrapper">
 		<h1>Frank Pizzuta</h1>
 		<div id="imageFrame">
-			<img id="pic" src="images/me.jpg" alt="Picture of me">
+			<img id="pic" src="images/me.JPG" alt="Picture of me">
 		</div>
 		<p>My daughter thought it was funny to make me into a white walker for the photo. I have worked at a financial services company in Oaks, PA for the last 25 years. I love learning new things. Harvard will be my 6th degree!</p>
 		<h2>Quote of the day</h2>
