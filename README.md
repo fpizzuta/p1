@@ -1,6 +1,6 @@
 # Project 1
 + By: Frank Pizzuta
-+ Production URL: <http://p1.yourdomain.com>
++ Production URL: <http://p1.pizzuta.com>
 
 ## Outside resources
 [https://stackoverflow.com/questions/4233407/get-random-item-from-array]
